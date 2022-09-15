@@ -1,4 +1,4 @@
-module github.com/apsteinberg/sars-like_cov_alignment_example
+module github.com/kussell-lab/virus_alignment_example
 
 go 1.16
 
