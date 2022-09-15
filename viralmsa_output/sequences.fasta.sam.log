@@ -1,0 +1,8 @@
+[M::main::0.003*1.81] loaded/built the index for 1 target sequence(s)
+[M::mm_mapopt_update::0.003*1.76] mid_occ = 3
+[M::mm_idx_stat] kmer size: 15; skip: 10; is_hpc: 0; #seq: 1
+[M::mm_idx_stat::0.003*1.71] distinct minimizers: 5587 (99.93% are singletons); average occurrences: 1.004; average spacing: 5.332; total length: 29903
+[M::worker_pipeline::0.403*7.11] mapped 191 sequences
+[M::main] Version: 2.17-r974-dirty
+[M::main] CMD: minimap2 -t 8 --secondary=no --sam-hit-only -a -o /Users/asherpreskasteinberg/go/src/github.com/apsteinberg/sars-like_cov_alignment_example/viralmsa_output/sequences.fasta.sam /Users/asherpreskasteinberg/.viralmsa/GCF_009858895.2_ASM985889v3_genomic.fasta_HASH_105c82802b67521950854a851fc6eefd/GCF_009858895.2_ASM985889v3_genomic.fasta.mmi /Users/asherpreskasteinberg/go/src/github.com/apsteinberg/sars-like_cov_alignment_example/sequences.fasta
+[M::main] Real time: 0.404 sec; CPU: 2.868 sec; Peak RSS: 0.139 GB
